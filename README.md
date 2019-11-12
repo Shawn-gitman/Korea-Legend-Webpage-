@@ -6,42 +6,42 @@ Korea-Legend is the Github-based website that can provide better KDA(Kill&Death 
 
 Type www.korealegend.ml to the navigation bar from the top of the internet screen where you're available to type domain address. Please don't type korealegend.ml to the top. It'll end up showing any of the pages.
 
-### Prerequisites
+## Prerequisites
 
 No Prerequisites required.
 
-### Installing
+## Installing
 
 No Installment required.
 
-### Running the tests
+## Running the tests
 
 No tests required.
 
-### Break down into end to end tests
+## Break down into end to end tests
 
 No Break down into end to end tests required.
 
-### And coding style tests
+## And coding style tests
 
 No coding style tests required.
 
-### Built With
+## Built With
 
 * [HTML5](https://www.w3.org/html/) - HTML5 is a software solution stack that defines the properties and behaviors of web page content by implementing a markup based pattern to it.
 * [Css](https://www.w3.org/Style/CSS/Overview.en.html) - Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language like HTML.
 * [Javascript](https://www.javascript.com/) - JavaScript, often abbreviated as JS, is a high-level, interpreted scripting language that conforms to the ECMAScript specification.
 
-### Contributing
+## Contributing
 
 Please read [CONTRIBUTING.md](https://github.com/Shawn-gitman/Korea-Legend-Webpage-/blob/master/README.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
-### Versioning
+## Versioning
 
 No Versioning available.
 
-### Authors
+## Authors
 
-* **Shawn Kang** - *Initial work* - [Korea-Legend-Webpage-](https://github.com/Shawn-gitman)
+* **Shawn Kang** - *Initial work* - [Korea-Legend-Webpage-](https://github.com/Shawn-gitman) - email : taegue52@daum.net
 
 
