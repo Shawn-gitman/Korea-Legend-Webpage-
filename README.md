@@ -42,7 +42,7 @@ No Versioning available.
 
 ## Authors
 
-* **Shawn Kang**  *Initial work* - [Korea-Legend-Webpage-](https://github.com/Shawn-gitman) - email : taegue52@daum.net
+* **Shawn Kang**  *Initial work* - [Korea-Legend-Webpage-](https://github.com/Shawn-gitman) email : taegue52@daum.net
 
 ## Reference
 * The Hot(https://logomaker.thehoth.com/) : The ultimate tool to create your free logo. Be surprised. Try our logo creator today and start your brand!
