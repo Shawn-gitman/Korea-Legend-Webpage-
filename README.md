@@ -48,4 +48,4 @@ No Versioning available.
 * The Hot(https://logomaker.thehoth.com/) : The ultimate tool to create your free logo. Be surprised. Try our logo creator today and start your brand!
 * Freewebsitetemplate(https://freewebsitetemplates.com/) : Get your free website templates here and use them on your website without needing to link back to us.
 * Freenom(https://freenom.com) : Freenom is the world's first and only free domain provider. Our mission is to bring people online and help countries develop their digital economy.
-
+* Disqus(https://disqus.com/) : Disqus is a worldwide blog comment hosting service for web sites and online communities that use a networked platform.
