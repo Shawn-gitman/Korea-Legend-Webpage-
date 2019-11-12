@@ -44,7 +44,7 @@ No Versioning available.
 
 * **Shawn Kang**  *Initial work* - [Korea-Legend-Webpage-](https://github.com/Shawn-gitman) - email : taegue52@daum.net
 
-##Reference
+## Authors
 * The Hot(https://logomaker.thehoth.com/) : The ultimate tool to create your free logo. Be surprised. Try our logo creator today and start your brand!
 * Freewebsitetemplate(https://freewebsitetemplates.com/) : Get your free website templates here and use them on your website without needing to link back to us.
 
