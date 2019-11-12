@@ -1,8 +1,8 @@
-# Korea-Legend-Webpage-
+### Korea-Legend-Webpage-
 
 Korea-Legend is the Github-based website that can provide better KDA(Kill&Death Average) services and also it can create a familiar forum.
 
-## Getting Started
+### Getting Started
 
 Type www.korealegend.ml to the navigation bar from the top of the internet screen where you're available to type domain address. Please don't type korealegend.ml to the top. It'll end up showing any of the pages.
 
@@ -14,53 +14,45 @@ No Prerequisites required.
 
 No Installment required.
 
-## Running the tests
+### Running the tests
 
 No tests required.
 
 ### Break down into end to end tests
 
-Explain what these tests test and why
-
-```
-Give an example
-```
+No Break down into end to end tests required.
 
 ### And coding style tests
 
-Explain what these tests test and why
+No coding style tests required.
 
-```
-Give an example
-```
-
-## Deployment
+### Deployment
 
 Add additional notes about how to deploy this on a live system
 
-## Built With
+### Built With
 
 * [HTML5](https://www.w3.org/html/) - HTML5 is a software solution stack that defines the properties and behaviors of web page content by implementing a markup based pattern to it.
 * [Css](https://www.w3.org/Style/CSS/Overview.en.html) - Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language like HTML.
 * [Javascript](https://www.javascript.com/) - JavaScript, often abbreviated as JS, is a high-level, interpreted scripting language that conforms to the ECMAScript specification.
 
-## Contributing
+### Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/Shawn-gitman/Korea-Legend-Webpage-/blob/master/README.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
+### Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+No Versioning available.
 
-## Authors
+### Authors
 
 * **Shawn Kang** - *Initial work* - [Korea-Legend-Webpage-](https://github.com/Shawn-gitman)
 
-## License
+### License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+### Acknowledgments
 
 * Hat tip to anyone whose code was used
 * Inspiration
