@@ -1,6 +1,6 @@
 ### Korea-Legend-Webpage-
 
-Korea-Legend is the Github-based website that can provide better KDA(Kill&Death Average) services and also it can create a familiar forum.
+Korea-Legend is the Github-based website that can provide better KDA(Kill&Death Average) services and also it is able to create a familiar forum.
 
 ### Getting Started
 
@@ -26,10 +26,6 @@ No Break down into end to end tests required.
 
 No coding style tests required.
 
-### Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ### Built With
 
 * [HTML5](https://www.w3.org/html/) - HTML5 is a software solution stack that defines the properties and behaviors of web page content by implementing a markup based pattern to it.
@@ -48,12 +44,4 @@ No Versioning available.
 
 * **Shawn Kang** - *Initial work* - [Korea-Legend-Webpage-](https://github.com/Shawn-gitman)
 
-### License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-### Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
