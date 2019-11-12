@@ -1,6 +1,6 @@
 # Korea-Legend-Webpage-
 
-Korea-Legend is the Github-based website that can provide better KDA(Kill&Death Average) services and also it is able to create a familiar forum.
+Korea-Legend is the Github-based website that can provide better KDA(Kill&Death Average) services and able to create a familiar forum.
 
 ## Getting Started
 
