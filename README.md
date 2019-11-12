@@ -42,6 +42,6 @@ No Versioning available.
 
 ## Authors
 
-* **Shawn Kang** - *Initial work* - [Korea-Legend-Webpage-](https://github.com/Shawn-gitman) - email : taegue52@daum.net
+* **Shawn Kang**  *Initial work* - [Korea-Legend-Webpage-](https://github.com/Shawn-gitman) - email : taegue52@daum.net
 
 
