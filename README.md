@@ -1,10 +1,10 @@
 # Korea-Legend-Webpage-
 
-Korea-Legend is the Github-based website that can provide better KDA(Kill&Death Average) services and able to create a familiar forum.
+Korea-Legend is the League of Legend(Lol) game forum. It is a Github-based website that can provide better KDA(Kill&Death Average) services and able to create a familiar forum. The Webpage contains 5 top navigation menus(Home, Media, Gallery, Confirming KDA, Blog). From the index.html(Home) you can find out the most popular video from the Media and you're also able to find out the popular gallery. All of the contents are cataegorized by the opearator Kang. 
 
 ## Getting Started
 
-Type www.korealegend.ml to the navigation bar from the top of the internet screen where you're available to type domain address. Please don't type korealegend.ml to the top. It'll end up showing any of the pages.
+Type www.korealegend.ml to the navigation bar from the top of the internet screen where you're available to type domain address. Please don't type korealegend.ml(https://shawn-gitman.github.io/Korea-Legend-Webpage-/) without "www" to the top. It'll end up showing any of the pages.
 
 ## Prerequisites
 
@@ -47,5 +47,5 @@ No Versioning available.
 ## Reference
 * The Hot(https://logomaker.thehoth.com/) : The ultimate tool to create your free logo. Be surprised. Try our logo creator today and start your brand!
 * Freewebsitetemplate(https://freewebsitetemplates.com/) : Get your free website templates here and use them on your website without needing to link back to us.
-
+* Freenom(https://freenom.com) : Freenom is the world's first and only free domain provider. Our mission is to bring people online and help countries develop their digital economy.
 
