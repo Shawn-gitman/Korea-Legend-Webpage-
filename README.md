@@ -4,7 +4,7 @@ Korea-Legend is the League of Legend(Lol) game forum. It is a Github-based websi
 
 ## Getting Started
 
-Type www.korealegend.ml(https://shawn-gitman.github.io/Korea-Legend-Webpage-/) to the navigation bar from the top of the internet screen where you're available to type domain address. Please don't type korealegend.ml without "www" to the top. It'll end up showing any of the pages.
+Type www.korealegend.ml (https://shawn-gitman.github.io/Korea-Legend-Webpage-/) to the navigation bar from the top of the internet screen where you're available to type domain address. Please don't type korealegend.ml without "www" to the top. It'll end up showing any of the pages.
 
 ## Prerequisites
 
