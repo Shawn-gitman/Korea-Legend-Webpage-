@@ -1,4 +1,4 @@
-# Korea-Legend-Webpage-
+# Korea-Legend-Webpage
 
 Korea-Legend is the League of Legend(Lol) game forum. It is a Github-based website that can provide better KDA(Kill&Death Average) services and able to create a familiar forum. The Webpage contains 5 top navigation menus(Home, Media, Gallery, Confirming KDA, Blog). From the index.html(Home) you can find out the most popular video from the Media and you're also able to find out the popular gallery. All of the contents are cataegorized by the opearator Kang. 
 
